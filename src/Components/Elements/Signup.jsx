@@ -12,7 +12,7 @@ function Signup({title , setEmail, setPassword  ,handleAction}) {
               <div className="card " style={{ width: "500px" }}>
                 <div>
                   <h2>
-                    {title} Form
+                    Sign-up and join
                   </h2>
                 </div><br />
                
